@@ -1,10 +1,15 @@
 # 💫 About Me:
-🔭 I’m currently working on Shram-sewa, a full-stack responsive MERN platform designed to connect local clients with verified freelancers for short-term, on-demand tasks.
-👯 I’m looking to collaborate on Open-source web applications, full-stack JavaScript (MERN) projects, or innovative tech solutions that streamline real-world services.
-🤝 I’m looking for help with Advanced backend architecture patterns, optimizing database queries in MongoDB, and mastering real-time state management in React.
-🌱 I’m currently Deepening my knowledge of full-stack ecosystems, building highly scalable REST APIs, and refining agile software engineering workflows.
-💬 Ask me about Java Servlets, full-stack development, database normalization, or automating processes like health triage and queue management.
-
+<ul>
+  <li>🔭 <b>I’m currently working on:</b> Shram-sewa, a full-stack responsive MERN platform designed to connect local clients with verified freelancers for short-term, on-demand tasks.</li>
+  <br>
+  <li>👯 <b>I’m looking to collaborate on:</b> Open-source web applications, full-stack JavaScript (MERN) projects, or innovative tech solutions that streamline real-world services.</li>
+  <br>
+  <li>🤝 <b>I’m looking for help with:</b> Advanced backend architecture patterns, optimizing database queries in MongoDB, and mastering real-time state management in React.</li>
+  <br>
+  <li>🌱 <b>I’m currently learning:</b> Deepening my knowledge of full-stack ecosystems, building highly scalable REST APIs, and refining agile software engineering workflows.</li>
+  <br>
+  <li>💬 <b>Ask me about:</b> Java Servlets, full-stack development, database normalization, or automating processes like health triage and queue management.</li>
+</ul>
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/theuser90210?igsh=MWp1ZnU2NWZ6aHQ3bQ%3D%3D&utm_source=qr) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/aaska-ghimire-37a153350/) 
