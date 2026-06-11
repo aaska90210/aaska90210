@@ -1,9 +1,9 @@
 # 💫 About Me:
 🔭 I’m currently working on Shram-sewa, a full-stack responsive MERN platform designed to connect local clients with verified freelancers for short-term, on-demand tasks.
-👯 I’m looking to collaborate on <br>Open-source web applications, full-stack JavaScript (MERN) projects, or innovative tech solutions that streamline real-world services.
-🤝 I’m looking for help with <br>Advanced backend architecture patterns, optimizing database queries in MongoDB, and mastering real-time state management in React.
-🌱 I’m currently <br>Deepening my knowledge of full-stack ecosystems, building highly scalable REST APIs, and refining agile software engineering workflows.
-💬 Ask me about <br>Java Servlets, full-stack development, database normalization, or automating processes like health triage and queue management.
+👯 I’m looking to collaborate on Open-source web applications, full-stack JavaScript (MERN) projects, or innovative tech solutions that streamline real-world services.
+🤝 I’m looking for help with Advanced backend architecture patterns, optimizing database queries in MongoDB, and mastering real-time state management in React.
+🌱 I’m currently Deepening my knowledge of full-stack ecosystems, building highly scalable REST APIs, and refining agile software engineering workflows.
+💬 Ask me about Java Servlets, full-stack development, database normalization, or automating processes like health triage and queue management.
 
 
 ## 🌐 Socials:
