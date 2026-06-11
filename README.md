@@ -11,9 +11,7 @@
   <li>💬 <b>Ask me about:</b> Java Servlets, full-stack development, database normalization, or automating processes like health triage and queue management.</li>
 </ul>
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/zhengrenzhe/vscode-Nyan-Cat/master/src/imgs/pikanyan.gif" alt="pikanyan" />
-</p>
+![pikanyan](https://raw.githubusercontent.com/zhengrenzhe/vscode-Nyan-Cat/master/src/imgs/pikanyan.gif)
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/theuser90210?igsh=MWp1ZnU2NWZ6aHQ3bQ%3D%3D&utm_source=qr) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/aaska-ghimire-37a153350/) 
